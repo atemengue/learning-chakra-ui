@@ -11,7 +11,7 @@ const Home: NextPage = () => (
           <Details />
 
         </VStack>
-        <VStack w="full" h="full" p={10} spacing={10} alignItems="flex-start" bg="gray.100"  >
+        <VStack w="full" h="full" p={10} spacing={10} alignItems="flex-start"  >
           <Cart />
         </VStack>
     </Flex>

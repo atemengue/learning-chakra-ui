@@ -1,6 +1,10 @@
 import { Button, Checkbox, FormControl, FormLabel, GridItem, Heading, Input, Select, SimpleGrid, Text, VStack } from "@chakra-ui/react";
 
+
+
 const Details = () => {
+
+
   return (
     <VStack
     w="full"
